@@ -17,4 +17,5 @@ Calc> 1233489374983933498398095/3487384 - Division <br/>
 
 Calc> Exit - Quit. <br/>
 
-![Screenshot (44)](https://user-images.githubusercontent.com/62476244/185735894-1992ac02-abd0-4811-b45c-34b90289c2b8.png)
+# Output
+![Screenshot (44)](https://user-images.githubusercontent.com/62476244/185735936-306d0b41-146f-4e74-b130-01b4ef091e9e.png)
